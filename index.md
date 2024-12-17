@@ -2,5 +2,14 @@
 ## h2
 ###### h6
 
-#Image
+# Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized emty Git repository in /Users/kills/Projects/recipe-repository/.git/
+```
+
+```javascript
+ver myVar = "Hello ,world!";
+```
