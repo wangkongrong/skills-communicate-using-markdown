@@ -13,3 +13,6 @@ Initialized emty Git repository in /Users/kills/Projects/recipe-repository/.git/
 ```javascript
 ver myVar = "Hello ,world!";
 ```
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
